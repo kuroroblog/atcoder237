@@ -5,3 +5,4 @@ Atcoder 237に関するコード
 https://atcoder.jp/contests/abc237/tasks
 
 ## 参考記事
+https://kuroro.blog/atcoder/oHoBXNcI4p37s3y3Lt5S/
